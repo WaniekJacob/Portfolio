@@ -12,10 +12,10 @@ import javax.persistence.Id;
 @Setter
 @NoArgsConstructor
 @Entity
-public class SupplierModel {
+public class SellerModel {
 
     @Id
-    private long supplierId;
+    private long sellerId;
     private String name;
     private String address;
     private String commercialClassification;

@@ -1,4 +1,4 @@
 package de.dhbw.ravensburg.wp.projektarbeit.controller;
 
-public interface SupplierController {
+public interface SellerController {
 }
